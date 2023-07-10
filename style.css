@@ -16,7 +16,9 @@ tr{
     font-size: 12px;
  
 }
-
+a{
+    text-decoration: none;
+}
 .main{
     background-color: rgb(241, 241, 241);
     font-family: Georgia, 'Times New Roman', Times, serif;
@@ -39,6 +41,16 @@ tr{
     text-align: center;
     float: left;
     margin: 0px auto;
+}
+
+.acikmavi{
+    background-color: rgb(13, 247, 235);
+}
+
+.listing{
+    text-decoration: none;
+    float: left;
+    list-style: none;
 }
 
 .footer-foot {
